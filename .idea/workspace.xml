@@ -1,7 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="13d1c9ac-5549-4eb1-a1f9-b7550d12149e" name="Default Changelist" comment="" />
+    <list default="true" id="13d1c9ac-5549-4eb1-a1f9-b7550d12149e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/BaseSeleniumTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/HandingFramesTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/FirstSeleniumTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/GoogleSearchTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TabliceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TabliceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/FirstSeleniumTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/KonwersjaRzutowanie.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/KonwersjaRzutowanie.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/OperatoryLogiczne.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/OperatoryLogiczne.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/OperatoryMatematyczne.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/OperatoryMatematyczne.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/OurFirstTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/OurFirstTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Tablice.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Tablice.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/TabliceTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/TabliceTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Zmienne.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Zmienne.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/abstrakcyjna/Pies.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/abstrakcyjna/Pies.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/abstrakcyjna/Ptak.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/abstrakcyjna/Ptak.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/abstrakcyjna/Zwierzatko.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/abstrakcyjna/Zwierzatko.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/abstrakcyjna/abstakcyjnaTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/abstrakcyjna/abstakcyjnaTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/dziedziczenie/Dziecko.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/dziedziczenie/Dziecko.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/dziedziczenie/Rodzic.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/dziedziczenie/Rodzic.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/dziedziczenie/testDziedziczenia.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/dziedziczenie/testDziedziczenia.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/interfejs/Auto.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/interfejs/Auto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/interfejs/InterfejsTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/interfejs/InterfejsTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/interfejs/PodstawoweAuto.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/interfejs/PodstawoweAuto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/interfejs/PremiumAuto.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/interfejs/PremiumAuto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/kolekcje/Lista.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/kolekcje/Lista.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/kolekcje/Mapa.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/kolekcje/Mapa.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/kolekcje/Sety.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/kolekcje/Sety.class" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +50,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -27,19 +61,21 @@
     </option>
   </component>
   <component name="ProjectId" id="1OxaG4EkMmn5TZpf4eX22aQpIq1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$/Pobrane/selenium-java-3.141.59 (1)/client-combined-3.141.59.jar!/" />
     <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="settings.editor.selected.configurable" value="xpath.settings" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/main/resources" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/resources/executables/drivers" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -54,12 +90,12 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.FirstSeleniumTest.setUp">
-    <configuration name="CzytanieZPliku.czytaniePliku" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.HandingFramesTest.handlingFrameTest">
+    <configuration name="GoogleSearchTest.googleOpenTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Selenium" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="CzytanieZPliku" />
-      <option name="METHOD_NAME" value="czytaniePliku" />
+      <option name="MAIN_CLASS_NAME" value="GoogleSearchTest" />
+      <option name="METHOD_NAME" value="googleOpenTest" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -67,21 +103,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FirstSeleniumTest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="GoogleSearchTest.googleOpenest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Selenium" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="FirstSeleniumTest" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FirstSeleniumTest.googleOpenest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Selenium" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="FirstSeleniumTest" />
+      <option name="MAIN_CLASS_NAME" value="GoogleSearchTest" />
       <option name="METHOD_NAME" value="googleOpenest" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
@@ -90,10 +115,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FirstSeleniumTest.setUp" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="GoogleSearchTest.googleSearchTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Selenium" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="FirstSeleniumTest" />
+      <option name="MAIN_CLASS_NAME" value="GoogleSearchTest" />
+      <option name="METHOD_NAME" value="googleSearchTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GoogleSearchTest.setUp" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GoogleSearchTest" />
       <option name="METHOD_NAME" value="setUp" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
@@ -102,17 +139,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Mapa.testMapy" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="HandingFramesTest.handlingFrameTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Selenium" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="kolekcje.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="kolekcje" />
-      <option name="MAIN_CLASS_NAME" value="kolekcje.Mapa" />
-      <option name="METHOD_NAME" value="testMapy" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="HandingFramesTest" />
+      <option name="METHOD_NAME" value="handlingFrameTest" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -122,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.FirstSeleniumTest.setUp" />
-        <item itemvalue="TestNG.FirstSeleniumTest.googleOpenest" />
-        <item itemvalue="TestNG.FirstSeleniumTest" />
-        <item itemvalue="TestNG.CzytanieZPliku.czytaniePliku" />
-        <item itemvalue="TestNG.Mapa.testMapy" />
+        <item itemvalue="TestNG.HandingFramesTest.handlingFrameTest" />
+        <item itemvalue="TestNG.GoogleSearchTest.googleSearchTest" />
+        <item itemvalue="TestNG.GoogleSearchTest.googleOpenTest" />
+        <item itemvalue="TestNG.GoogleSearchTest.setUp" />
+        <item itemvalue="TestNG.GoogleSearchTest.googleOpenest" />
       </list>
     </recent_temporary>
   </component>
@@ -142,5 +173,18 @@
       <updated>1564921602358</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

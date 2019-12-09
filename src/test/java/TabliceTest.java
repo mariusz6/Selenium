@@ -13,4 +13,6 @@ public class TabliceTest {
         tablice.przedstawStudentow();
     }
 
+    public static class BaseSeleniumTest {
+    }
 }
